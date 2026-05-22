@@ -47,3 +47,10 @@ Os passos do Gherkin são implementados em CalculoJurosCompostosStepDefinition.c
 A regra de negócio usada pelos testes está em CalculoFinanceiro.cs, que calcula juros compostos com Math.Pow e agora arredonda o resultado para 2 casas decimais.
 
 
+forks:
+
+https://github.com/RafaelBarbosa12/DotNet5-Moq-xUnit-FluentAssertions
+
+https://github.com/RafaelBarbosa12/DotNet5-xUnit
+
+https://github.com/RafaelBarbosa12/ASPNETCore5-REST_API-xUnit-SpecFlow-Swagger-Docker_JurosCompostos
